@@ -1,0 +1,25 @@
+{
+  "name": "ll-insertions-data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "- Code Challenge - Extend a Linked List to allow various insertion methods.",
+  "main": "app.js",
+  "dependencies": {
+    "jest": "^27.0.5",
+    "supertest": "^6.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tekthree/ll-insertions-data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tekthree/ll-insertions-data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/Tekthree/ll-insertions-data-structures-and-algorithms#readme"
+}
